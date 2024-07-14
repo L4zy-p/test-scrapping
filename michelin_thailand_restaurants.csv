@@ -1,0 +1,461 @@
+Name,Restaurant_Type,Country,Province,Link
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
+AKKEE,Thai,Thailand,Nonthaburi,https://guide.michelin.com/th/en/nonthaburi-region/nonthaburi/restaurant/akkee
+Baannok Bangkok,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/baannok-bangkok
+Krua Sa Ros Jad,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/krua-sa-ros-jad
+Radna Suanmak,Noodles,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/radna-suanmak
+Thai Tham,Smalleats,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/thai-tham
+Kin-Kub-Ei,SouthernThai,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/kin-kub-ei
+Garlic,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/garlic
+Janhom,SouthernThai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/janhom
+Khaan,Thaicontemporary,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/khaan
+Sriruen Pad Thai (Ruenchit Road),Noodles,Thailand,Khon Kaen,https://guide.michelin.com/th/en/khon-kaen-region/khon-kaen/restaurant/sriruen-pad-thai-reunrom-road
+Royd,"SouthernThai,Contemporary",Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd
+Potong,Innovative,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/potong
+Sang Tha Tien,Thai,Thailand,Bangkok,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sang-tha-tien
+Khao Kriab Pak Mor Talat Na San Jao,StreetFood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao
+Baan Suan Lung Khai,Seafood,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai
+Day & Night (Surat Thani),International,Thailand,Surat Thani,https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/day-night-of-surat-thani
+The Smokaccia Laboratory,Creative,Thailand,Phuket,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/the-smokaccia-laboratory
+Baan Pu Karn,Thai,Thailand,Phra Nakhon Si Ayutthaya,https://guide.michelin.com/th/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/baan-pu-karn
+Khanom Jeen Pradok Ban Kru Yod,Thai,Thailand,Nakhon Ratchasima,https://guide.michelin.com/th/en/nakhon-ratchasima-region/nakhon-ratchasima/restaurant/khanom-jeen-kru-yod
+View Mun,Isan,Thailand,Ubon Ratchathani Province,https://guide.michelin.com/th/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/view-mun
